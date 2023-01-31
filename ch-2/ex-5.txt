@@ -1,0 +1,2 @@
+The first snippet outputs 3 as expected.
+The second snippet generates an error because x is initialized in a loop and later called out of scope. 
