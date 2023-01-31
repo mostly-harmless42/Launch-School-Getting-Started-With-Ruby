@@ -1,0 +1,3 @@
+The program encountered ')' where it expected '}'.
+Likely there is an open curly brace with no closed curly brace somewhere in the code. 
+The message also includes the line # and file location of the error. 
