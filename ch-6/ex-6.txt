@@ -1,0 +1,2 @@
+The error is thrown because the braces should contain an index. 
+This could be fixed by placing the index of the value to be replaced in the braces. 
