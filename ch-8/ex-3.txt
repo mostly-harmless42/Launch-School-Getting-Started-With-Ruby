@@ -1,0 +1,2 @@
+Exeption handling solves the problem of executing code that might fail in a way that doesn't crash the whole program. 
+It gives the program instructions for what to do if the risky code fails. 
